@@ -5,7 +5,7 @@ In this example we demonstrate how to profile on the RISC Zero zkVM guest progra
 <!-- NOTE: This content matches the docs under website/api/zkvm/developer-guide/profiling.md -->
 ## Background
 
-Profiling tools, like [pprof] and [perf], allow collecting performance information over the entire execution of your program, and help create visualizations for the performance of your program.
+Profiling tools like [pprof] and [perf] collect performance information throughout your program's execution and help create visualizations of its performance.
 RISC Zero has experimental support for generating pprof files for cycle counts.
 
 [Sampling CPU profilers], as implemented by pprof and perf, provide a view of where your program is spending its time.
