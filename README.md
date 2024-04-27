@@ -1,6 +1,7 @@
-<p align="center">
+<div align="center">
   <a href="https://risczero.com"><img src="website/static/img/logo.png" height="100"></a>
-</p>
+  <h1><a href="https://risczero.com">RISC Zero</a></h1>
+</div>
 
 <h1 align="center"><a href="https://risczero.com">RISC Zero</a></h1>
 
